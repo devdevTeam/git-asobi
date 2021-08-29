@@ -1,5 +1,6 @@
 # git-asobi
-gitで遊ぼう.  
+sakuradayo  
 よかろう．  
-issue4.  
-検証
+fufufu   
+検証  
+sasasasasaku  
