@@ -1,3 +1,3 @@
 # git-asobi
-gitで遊ぼう
+gitで遊ぼう  
 よかろう．
