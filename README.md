@@ -1,9 +1,13 @@
 # git-asobi
-gitで遊ぼう.  
+sakuradayo  
 よかろう．  
-issue4.  
+fufufu   
 検証  
+sasasasasaku  
+issue4.  
+検証    
+早くやりたくない  
 楽しそう  
-早くやりたい  
 イェイ！  
 改行忘れてた！
+
