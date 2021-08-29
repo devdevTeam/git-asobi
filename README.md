@@ -1,4 +1,5 @@
 # git-asobi
-gitで遊ぼう
-よかろう．
-issue4
+gitで遊ぼう.  
+よかろう．  
+issue4.  
+検証
